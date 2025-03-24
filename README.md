@@ -32,7 +32,7 @@ npx cap open android
 ``` 
 npx cap run android
 ```
-## 📌 6. Giao diện ứng dụng
+## 📌 Giao diện ứng dụng
 ![Image](https://github.com/user-attachments/assets/ce214a23-545a-4813-a337-750d060da6ec)
 
 
